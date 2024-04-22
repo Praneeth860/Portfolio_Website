@@ -1,0 +1,134 @@
+/* .flex1 {
+  display: flex;
+  justify-content: flex-end;
+} */
+:root {
+  --font-para: Roboto;
+  --font-heading: Roboto slab;
+  --card1-bg-color: #e1fffa;
+}
+.nav1 {
+  background-color: #a9cec2;
+  font-family: Roboto slab;
+}
+.f_heading {
+  font-family: Roboto slab;
+  /* line-height: 1.6; */
+}
+.font_para {
+  font-family: Roboto;
+}
+.gap-2 a {
+  background-color: #e1fffa;
+  color: black;
+  border-radius: 20px;
+}
+.navsize {
+  font-size: 5rem;
+}
+.sp {
+  position: relative;
+  max-width: 360px;
+}
+.sp img {
+  max-width: 300px;
+  max-height: 300px;
+}
+
+.img-abs {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+.img-abs1 {
+  top: 20px;
+  left: 20px;
+}
+
+#home {
+  max-width: 100%;
+  min-height: 100svh;
+}
+
+@media (min-width: 992px) {
+  .f_heading {
+    font-family: Roboto slab;
+    /* line-height: 1.6; */
+  }
+  .font_para {
+    line-height: 1.6;
+  }
+}
+/* projects page  */
+#projects {
+  background-color: #aca9bb;
+  max-width: 100%;
+  min-height: 100svh;
+}
+#projects h1 {
+  font-family: var(--font-heading);
+}
+
+@media (min-width: 768px) and (max-width: 1200px) {
+  .img-dog {
+    height: calc(100% - 96px);
+  }
+  .img-dog {
+    height: calc(100% - 96px);
+  }
+}
+@media (min-width: 1200px) {
+  .img-dog {
+    height: calc(100% - 72px);
+  }
+  .img-portfolio {
+    height: calc(100% - 96px);
+  }
+}
+.card {
+  background-color: var(--card1-bg-color);
+}
+.card-title {
+  font-family: var(--font-heading);
+}
+.card-text {
+  font-family: var(--font-para);
+}
+/* about page */
+.font_h {
+  font-family: var(--font-heading);
+}
+.font_p {
+  font-family: var(--font-para);
+}
+#about {
+  max-width: 100%;
+  min-height: 100svh;
+}
+#about .font_p {
+  text-align: left; /* Align text to the left */
+  margin: 0 auto;
+  max-width: 600px;
+}
+#contact {
+  background-color: #aca9bb;
+  max-width: 100%;
+  min-height: 100svh;
+  position: relative;
+}
+.about > div {
+  min-height: 100%;
+}
+.main {
+  min-height: 90svh;
+}
+footer {
+  margin: auto 0;
+}
+.foot {
+  margin-top: 5px; /* position: absolute;
+  bottom: 0;
+  left: aut0;
+  right: auto;
+  margin: 0 auto; */
+}
