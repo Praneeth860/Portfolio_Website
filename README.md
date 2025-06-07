@@ -13,6 +13,9 @@ A modern, responsive personal portfolio website built to showcase my projects, s
 - ✅ **Projects Showcase** - Dedicated section with live previews and GitHub links
 - ✅ **Contact Page** - Easy-to-find contact information and social media links
 
+## 🌐 Live Demo
+
+[View Live Demo](https://praneeth860.github.io/Portfolio_Website/)
 
 ## 🛠️ Built With
 
@@ -70,9 +73,6 @@ The website is fully responsive and tested on:
 - **Projects** - Portfolio of work with live demos
 - **Contact** - Contact form and social links
 
-## 🌐 Live Demo
-
-[View Live Demo](https://praneeth860.github.io/Portfolio_Website/)
 
 ## 🤝 Contributing
 
