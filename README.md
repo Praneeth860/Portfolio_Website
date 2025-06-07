@@ -1,9 +1,9 @@
 # Portfolio Website
 
 A modern, responsive personal portfolio website built to showcase my projects, skills, and experience as a frontend engineer. The website features a clean design with smooth animations and optimal user experience across all devices.
-
+---
 ![Screenshot 2025-06-07 153727](https://github.com/user-attachments/assets/d8884ac5-ada9-422c-a384-faf652e067e1)
-
+---
 
 ## 🌟 Features
 
